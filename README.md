@@ -1,7 +1,7 @@
 # ZippingTool
 <br>
 <center>
-<img src="https://raw.githubusercontent.com/PratyushPuri/ZippingTool/main/zipper.PNG">
+<img src="https://raw.githubusercontent.com/PratyushPuri/ZippingTool/main/minzip.PNG">
 </center>
 <br>
 
