@@ -1,5 +1,8 @@
 # ZippingTool
-
+<br>
+<center>
+<img src="https://raw.githubusercontent.com/PratyushPuri/ZippingTool/main/zipper.PNG">
+</center>
 <br>
 
 <h3>Use for <strong>ZippingTool</strong></h3>
